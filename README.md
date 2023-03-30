@@ -1,2 +1,2 @@
 # SQL-Code
-All SQL Code from practice and projects 
+I will store all SQL Code I have worked on from practising and doing projects 
